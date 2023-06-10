@@ -1,0 +1,53 @@
+p {
+  font-family: Roboto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.video-tittle {
+  font-weight: bold;
+  font-size: 18px;
+  width: 280px;
+  line-height: 20px;
+  margin-bottom: 5px;
+}
+
+.video-stats {
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 20px;
+}
+
+.video-author {
+  color: gray;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.video-description {
+  color: gray;
+  font-size: 14px;
+  width: 280px;
+  line-height: 22px;
+  margin-bottom: 100px;
+}
+
+.apple-text {
+  font-size: 14px;
+  margin-bottom: 20px;
+  background-color: rgb(227, 65, 64);
+  color: white;
+  text-align: center;
+  /* spacing inside an elemnent is called padding  */
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.shop-link {
+  cursor: pointer;
+  margin-left: 12px;
+}
+
+.shop-link:hover {
+  text-decoration: underline;
+}
